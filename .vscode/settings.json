@@ -1,0 +1,9 @@
+{
+    "code-runner.executorMap": {
+        "javascript": "node"
+
+    },
+    "python.linting.pylintEnabled": false,
+    "python.autoComplete.extraPaths": ["F:\\PythonCode"],
+    "python.pythonPath": "E:\\anaconda3-5.2\\envs\\py3\\python"
+}
