@@ -8,3 +8,10 @@
             settings.py    配置文件，定义了爬虫配置，数据库的配置属性等
 
 scrapy的官方文档： https://docs.scrapy.org/en/latest/index.html
+
+依赖库说明
+python vesion: 3.6    
+    第三方库
+        requests
+        pymysql
+        scrapy  (version: 1.3.3)
