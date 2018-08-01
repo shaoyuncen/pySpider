@@ -16,7 +16,7 @@ post_parameters = {
     'zbCode' : '',
     'appcode' : '',
     'page' : '',
-    'rows' : '10' # url个数，可以自己设置
+    'rows' : '70000' # url个数，可以自己设置
 }
 cpContent = requests.post("http://www.zfcg.suzhou.gov.cn/content/cpContents.action", data = post_parameters) #POST请求
 print(cpContent.status_code)
